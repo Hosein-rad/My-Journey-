@@ -1,2 +1,4 @@
 # react-portfolio
-day 1: planned the next 1.5 months. a) learn react b) create a project c) create a portfolio page d) move to Isfahan, look for internships
+### day 1 (14/3/1404)
+- setup vite + react
+- small bug fix. a "#" at the beginning of folder name caused running issues
