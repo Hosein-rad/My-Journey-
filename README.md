@@ -7,4 +7,5 @@
 - got a general idea of these concepts: components, stats and props, hooks, jsx and what react actually is
 
 ### day 2 (15/3/1404)
-- 
+- finished crashcourse, too complex, decided to start scrimba react course
+
