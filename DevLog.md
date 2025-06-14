@@ -1,4 +1,4 @@
-# react-portfolio
+# My Journal
 ### day 1 (14/3/1404)
 - setup vite + react
 - set up git, github and this repo
@@ -15,3 +15,7 @@
 - hit a pay-wall on scrimba course, broke my heart!
 - decided to start TheOdinProject course
 
+### fast forward (23/3/1404)
+A lot of decision changes due to changes of situation... Israel attacks on most major cities = no more traveling to other cities and no more internship
+- decided on a freelance path, started sharpening JS skills on Freecodecamp
+- built half of a Todo app today. the rest of it for tomorrow
