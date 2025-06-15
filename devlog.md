@@ -11,11 +11,16 @@
 - learned more about react invironment and what it's really all about
 - started scrimba course to gain more depth before starting the project
 
-### day3 (17/3/1404)
+### day 3 (17/3/1404)
 - hit a pay-wall on scrimba course, broke my heart!
 - decided to start TheOdinProject course
 
-### fast forward (23/3/1404)
+### fast forward (24/3/1404)
 A lot of decision changes due to changes of situation... Israel attacks on most major cities = no more traveling to other cities and no more internship
 - decided on a freelance path, started sharpening JS skills on Freecodecamp
 - built half of a Todo app today. the rest of it for tomorrow
+
+### day 11 (25/3/1404)
+- almost finished the todo app. one annoying bug left that prevents me from adding localStorage...
+- it seems you can't use isEmpty or .length or many other great things on objects!
+- also another weird thing: apparently a variable with the value of an empty curly braces (const x = {}) is truthy !!
