@@ -24,3 +24,4 @@ A lot of decision changes due to changes of situation... Israel attacks on most 
 - almost finished the todo app. one annoying bug left that prevents me from adding localStorage...
 - it seems you can't use isEmpty or .length or many other great things on objects!
 - also another weird thing: apparently a variable with the value of an empty curly braces (const x = {}) is truthy !!
+- also for some reason I can not just assign one object into another, I'd have to give the parent object a key name first
