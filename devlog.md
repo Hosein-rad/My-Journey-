@@ -28,3 +28,7 @@ A lot of decision changes due to changes of situation... Israel attacks on most 
 
 ### day 12 (26/3/1404)
 - coffee timer hit me hard and realized a lot, consider today as a rest day, but it was more of a pivotal day...
+
+### day 14 (28/3/1404)
+- full on internet blackout yesterday... not tryna bring excuses, but I am
+- made a number sorter project yesterday with selection and bubble sort. it was fun, I liked it
