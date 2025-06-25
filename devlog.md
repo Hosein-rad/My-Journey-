@@ -32,3 +32,9 @@ A lot of decision changes due to changes of situation... Israel attacks on most 
 ### day 14 (28/3/1404)
 - full on internet blackout yesterday... not tryna bring excuses, but I am
 - made a number sorter project yesterday with selection and bubble sort. it was fun, I liked it
+
+### day 21 (4/4/1404)
+- full on internet blackout for the last week, no github :( hopefully the war is over
+- have been busy though, created over 10 small projects which will be loading daily.
+- learned a lot, but most importantly, realized how important it is to read docs and explanations of each part I don't understand
+- possibly the opportunity of going to another city and finding internship came back... fingers crossed
