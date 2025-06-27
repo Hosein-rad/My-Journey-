@@ -38,3 +38,8 @@ A lot of decision changes due to changes of situation... Israel attacks on most 
 - have been busy though, created over 10 small projects which will be loading daily.
 - learned a lot, but most importantly, realized how important it is to read docs and explanations of each part I don't understand
 - possibly the opportunity of going to another city and finding internship came back... fingers crossed
+
+### day 23 (6/4/1404)
+- covered over 85% of JS. I could confidently call myself 'Intermediate' in JS
+- suprise suprise, things have changed again. Not safe to travel just yet. gonna become a great developer, F the internship route
+- here's my plan in a nutshell: git/github 1-2days, then tailwind 4days, then react, APIs, a big project, react native, a mobile app and then portfolio.  
