@@ -42,4 +42,9 @@ A lot of decision changes due to changes of situation... Israel attacks on most 
 ### day 23 (6/4/1404)
 - covered over 85% of JS. I could confidently call myself 'Intermediate' in JS
 - suprise suprise, things have changed again. Not safe to travel just yet. gonna become a great developer, F the internship route
-- here's my plan in a nutshell: git/github 1-2days, then tailwind 4days, then react, APIs, a big project, react native, a mobile app and then portfolio.  
+- here's my plan in a nutshell: git/github 1-2days, then tailwind 4days, then react, APIs, a big project, react native, a mobile app and then portfolio.
+
+### day 25 (8/4/1404)
+- yesterday I learned basics of git and github, how to push pull branch add commit all the normal stuff
+- today, started learning tailwind, learned how to install it and how it works in general, seems very straight forward
+- found some great courses, very excited to start them. also, gotta download them all asap, in case the war goes down again, seems like it will...
