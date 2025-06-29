@@ -16,7 +16,7 @@
 - decided to start TheOdinProject course
 
 ### fast forward (24/3/1404)
-A lot of decision changes due to changes of situation... Israel attacks on most major cities = no more traveling to other cities and no more internship
+- A lot of decision changes due to changes of situation... Israel attacks on most major cities = no more traveling to other cities and no more internship
 - decided on a freelance path, started sharpening JS skills on Freecodecamp
 - built half of a Todo app today. the rest of it for tomorrow
 
