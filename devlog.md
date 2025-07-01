@@ -53,5 +53,6 @@
 - today I deepened my understanding of CSS grid and flexbox. learned/memorized about 70% of Tailwind utility classes too
 - quite a prodoctive day today, ~9h of work/study. gonna build a decent looking discord page with Tailwind tomorrow
 - still no war attempts, hopefully stays this way. removing more and more non-programming stuff from my life. also decided to do +2-3 great projects instead of learning react native later
+- got the idea of adding things to my already existing mini-projects instead of building new ones and pushing them here... Wish I did this earlier
 
-###  
+### 
