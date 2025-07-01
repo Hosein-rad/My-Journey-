@@ -48,3 +48,10 @@
 - yesterday I learned basics of git and github, how to push pull branch add commit all the normal stuff
 - today, started learning tailwind, learned how to install it and how it works in general, seems very straight forward
 - found some great courses, very excited to start them. also, gotta download them all asap, in case the war goes down again, which seems like it will...
+
+### day 27 (10/4/1404)
+- today I deepened my understanding of CSS grid and flexbox. learned/memorized about 70% of Tailwind utility classes too
+- quite a prodoctive day today, ~9h of work/study. gonna build a decent looking discord page with Tailwind tomorrow
+- still no war attempts, hopefully stays this way. removing more and more non-programming stuff from my life. also decided to do +2-3 great projects instead of learning react native later
+
+###  
