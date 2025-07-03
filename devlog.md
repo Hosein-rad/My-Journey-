@@ -55,4 +55,7 @@
 - still no war attempts, hopefully stays this way. removing more and more non-programming stuff from my life. also decided to do +2-3 great projects instead of learning react native later
 - got the idea of adding things to my already existing mini-projects instead of building new ones and pushing them here... Wish I did this earlier
 
-### 
+### 29 (12/4/1404)
+- extra productive day! hands on work with Tailwind for 8hours. created the interface of apple.com (will finish it later)
+- I was quite pissed at Tailwind yesterday ngl, but today, I kinda loved using it. it's so much easier to navigate between divs to style!
+- if I keep it up like today, I'm sure I can land a job after 2 months. 
