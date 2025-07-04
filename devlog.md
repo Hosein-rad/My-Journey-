@@ -55,7 +55,12 @@
 - still no war attempts, hopefully stays this way. removing more and more non-programming stuff from my life. also decided to do +2-3 great projects instead of learning react native later
 - got the idea of adding things to my already existing mini-projects instead of building new ones and pushing them here... Wish I did this earlier
 
-### 29 (12/4/1404)
+### day 29 (12/4/1404)
 - extra productive day! hands on work with Tailwind for 8hours. created the interface of apple.com (will finish it later)
 - I was quite pissed at Tailwind yesterday ngl, but today, I kinda loved using it. it's so much easier to navigate between divs to style!
-- if I keep it up like today, I'm sure I can land a job after 2 months. 
+- if I keep it up like today, I'm sure I can land a job after 2 months.
+
+### day 30 (13/4/1404) 
+- I planned to learn deployment in 2 days, I got the simple stuff in ~2 hours, and postponed the more technical stuff after react and APIs
+- started a React course, I see similarities between Tailwind class utilities and React components
+- today was less coding, more theory/tutorials/reading docs. not as fun as yesterday. starting to feel a kind of joy from coding that I used to get from gaming (Dota 2)
