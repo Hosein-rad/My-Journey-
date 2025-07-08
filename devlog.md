@@ -64,3 +64,7 @@
 - I planned to learn deployment in 2 days, I got the simple stuff in ~2 hours, and postponed the more technical stuff after react and APIs
 - started a React course, I see similarities between Tailwind class utilities and React components
 - today was less coding, more theory/tutorials/reading docs. not as fun as yesterday. starting to feel a kind of joy from coding that I used to get from gaming (Dota 2)
+
+### day 34 (17/4/1404)
+- been quite productive last few days, learning React. conpletely forgot about github "green squares"! and honestly, don't see the point of it. it feels like kind of a show off, and easy to get around. don't see it as sth important anymore...
+- havn't built anything worthwhile to upload anyways, might delete the previous repos too. eeh maybe not
