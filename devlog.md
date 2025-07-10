@@ -68,3 +68,9 @@
 ### day 34 (17/4/1404)
 - been quite productive last few days, learning React. conpletely forgot about github "green squares"! and honestly, don't see the point of it. it feels like kind of a show off, and easy to get around. don't see it as sth important anymore...
 - havn't built anything worthwhile to upload anyways, might delete the previous repos too. eeh maybe not
+
+### day 36 (19/4/1404)
+- gave myself a break today. had a lot of doubt about my path and whether it will be possible to land a job.
+- decided to spend the last month of summer going to Tehran and look for jobs personally.
+- created a cool lookin 3-month plan in Figma and set it as my background
+- also, even if I couldn't find a job in that month, very likely will resign temporarely from teaching to focus on programming this year. yeah, I'm committed hard!
