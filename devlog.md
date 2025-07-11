@@ -74,3 +74,11 @@
 - decided to spend the last month of summer going to Tehran and look for jobs personally.
 - created a cool lookin 3-month plan in Figma and set it as my background
 - also, even if I couldn't find a job in that month, very likely will resign temporarely from teaching to focus on programming this year. yeah, I'm committed hard!
+
+### day 37 (20/4/1404)
+- good day, 7/5hrs of coding so far, still got an hour or two left in me. my avg in these 37 days was 7 to 7/5 ish hours
+- created a simple array methods playground in vite. asked GPT whether it's worth it to upload it in github. answer: Absolutely!
+- been tackling between remote job and in-person job. I lean towards remote a lot, since my learning skyrockets this way.
+- it would be a dream come true if I land a remote job... at this point I feel like I'm just repeating myself!
+
+###
