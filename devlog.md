@@ -81,4 +81,8 @@
 - been tackling between remote job and in-person job. I lean towards remote a lot, since my learning skyrockets this way.
 - it would be a dream come true if I land a remote job... at this point I feel like I'm just repeating myself!
 
-###
+### day 47 (30/4/1404)
+- so the last week wasn't as productive. 4hours avg. some house repair.
+- today I came to library. it's 6pm and I've done a focused 7hour of study + production
+- almost finished my calculator widget. I plan to stick it in the corner of my "golden" project. the functionality and a few debugging is over. just some tailwind styles to add so it matches the design I created in Figma.
+- today was a solid 9/10. 
