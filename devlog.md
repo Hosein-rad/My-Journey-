@@ -85,4 +85,9 @@
 - so the last week wasn't as productive. 4hours avg. some house repair.
 - today I came to library. it's 6pm and I've done a focused 7hour of study + production
 - almost finished my calculator widget. I plan to stick it in the corner of my "golden" project. the functionality and a few debugging is over. just some tailwind styles to add so it matches the design I created in Figma.
-- today was a solid 9/10. 
+- today was a solid 9/10.
+
+### day 52 (4/5/1404)
+- been leaning non-stop. finished React to a decent level, now I'm diving into the API world
+- had no clue how useful and simple to grasp fetch API is! feels like a world opened up to me!
+- nothing worth sharing these days... just creating and deleting small projects to learn delicate stuff
