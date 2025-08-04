@@ -91,3 +91,10 @@
 - been leaning non-stop. finished React to a decent level, now I'm diving into the API world
 - had no clue how useful and simple to grasp fetch API is! feels like a world opened up to me!
 - nothing worth sharing these days... just creating and deleting small projects to learn delicate stuff
+
+### day 61 (13/5/1404) 
+- started a project called **Cryptionary**. this will be the project to showcase my skills. so I'll be going as deep as I can
+- folder structure, wireframes, and a bit of UI is done so far
+- very tired at the end of each day... been neglecting writing devlog. kinda don't see the point tho!
+
+### day 
