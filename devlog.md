@@ -97,4 +97,6 @@
 - folder structure, wireframes, and a bit of UI is done so far
 - very tired at the end of each day... been neglecting writing devlog. kinda don't see the point tho!
 
-### day 
+### day 71 (23/5/1404)
+- since I had the plan to have the Cryptionary as my centerpiece, scope creep got to me and I started dabbling into backend
+- today I realized the original plan was to specialize front-end first (React-tailwind-Figma)
