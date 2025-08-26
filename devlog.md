@@ -100,3 +100,9 @@
 ### day 71 (23/5/1404)
 - since I had the plan to have the Cryptionary as my centerpiece, scope creep got to me and I started dabbling into backend
 - today I realized the original plan was to specialize front-end first (React-tailwind-Figma)
+
+### day 73 (4/6/1404) 
+- last month have been harsh. unavoidable family things. my momentum was lost. today I restarted the hardcode study mode.
+- I decided to put 2 weeks of 7-9hrs daily study to Node.js and express and MongoDB and MySQL.
+
+### day 
