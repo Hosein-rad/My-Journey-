@@ -105,4 +105,8 @@
 - last month have been harsh. unavoidable family things. my momentum was lost. today I restarted the hardcode study mode.
 - I decided to put 2 weeks of 7-9hrs daily study to Node.js and express and MongoDB and MySQL.
 
-### day 
+### day 74 (15/6/1404) 
+- Next.js; what a monster! I've recently figured out the capabilities of this amazing technology and how it can be a backend - use DBs - optimize images - super easy routing - SEO and much more ...
+- the 'Cryptionary' project of mine is left unfinished sadly. I've decided to build a web app with student/teacher dashboard to make my teaching job a whole lot easier and more productive.
+- so originally I was planning to find another teacher, pay him my salary fully so that I can keep leaarning and finding a programming job, but apparently it's not quite legally possible. that's pretty much the big plan change, followed up by view change. can't be coding for 8+ hours daily. gotta adapt. gonna be hard. but I will not allow myeslf to forget about coding again, like last year. I wish I could continue with full focus but... obsticles are showing up more and more
+- the other big thing that was quite disappointing was the fact that me as an Iranian citizen, am not hirable remotely. both the sanctions and no payment ways, AND i'm a junior... forget about it! the new plan is to build and get exp here in Iran, then travel to a neighbour country and get exp there, THEN maybe, fingers crossed, I can get to the life I want, remote work, traveling around the world.  
