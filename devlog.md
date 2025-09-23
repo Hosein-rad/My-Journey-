@@ -115,3 +115,9 @@
   - learned prisma. connected it to my next.js test project, and to a mySQL DB and added rows with form submition.
   - next up is to delete, update, query ... the data from mysql table with prisma. then will start the teacher tool project.
   - I noticed when I push new stuff in an already existing repo, I don't get any green squares! makes me care even less about them!
+
+### day 91 (1/7/1404) 
+ - added prisma and database to Darsbar. things are going nicely
+ - I am taking things slow, no more rushing. I research anything I don't understand or doesn't feel natural in any way. 
+ - progress will be slowed down since schools are starting, but never stopped, hopefully 🤞
+ - logged in github via phone this time
