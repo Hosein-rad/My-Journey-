@@ -121,3 +121,8 @@
  - I am taking things slow, no more rushing. I research anything I don't understand or doesn't feel natural in any way. 
  - progress will be slowed down since schools are starting, but never stopped, hopefully 🤞
  - logged in github via phone this time
+
+### day 102 (12/7/1404)
+ - After so many months, I just realized that if I sync the git config user.email I can actually show my activity in github profile... All this time I thought the green squares just won't show up with pushes 🤦 and I just stopped caring! I'mma make it green as grass now
+ - speaking of grass, Ive been contemplating a lot about startign to socialize again. No dating tho. but Idk, it's not that I don't want to, I just don't want it to hurt my momentum and focus. every thing is removed except workout, Teaching (mandatory for now) and programming...I'll probably keep it this way.
+ - darsbar is going well, will be finished in ~ 1 month. the MVP of it ofc.
