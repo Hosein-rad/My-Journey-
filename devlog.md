@@ -131,5 +131,3 @@
  - content creation is actually so much harder than I though! hard in terms of time consuming and repetitive... today was just creating audio files via AI for darsbar. I'm close to shipping the MVP. being close to finish, or even actually having a pre-defined finish line, feels much better.
  - I've been thinking, having one very polished and useful and deep and tested web app, would be a lot more impressive than a few smaller in-use products. so I'mma focus on darsbar. maybe just a little portfolio page too.
  - about the start time of applying, If I don't set it, I might just postpone it forever. gonna think about it and decide...
-
-### day
