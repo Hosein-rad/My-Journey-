@@ -1,133 +1,126 @@
-# My Journal
-### day 1 (14/3/1404)
-- setup vite + react
-- set up git, github and this repo
-- small bug fix. a "#" at the beginning of folder name caused running issues
-- skimmed through half of a crashcourse on youtube called: react crashcourse by **Traversy Media**
-- got a general idea of these concepts: components, stats and props, hooks, jsx and what react actually is
+# 📘 Devlog – Hossein Hosseini Rad
 
-### day 2 (16/3/1404)
-- finished crashcourse, too complex, decided to start scrimba react course
-- learned more about react invironment and what it's really all about
-- started scrimba course to gain more depth before starting the project
+> Self‑taught front‑end developer journey: from first React component to full‑stack Next.js apps.  
+> Shamsi dates (1404 = 2025‑2026).
 
-### day 3 (17/3/1404)
-- hit a pay-wall on scrimba course, broke my heart!
-- decided to start TheOdinProject course
+---
 
-### fast forward (24/3/1404)
-- A lot of decision changes due to changes of situation... Israel attacks on most major cities = no more traveling to other cities and no more internship
-- decided on a freelance path, started sharpening JS skills on Freecodecamp
-- built half of a Todo app today. the rest of it for tomorrow
+## 🚀 Phase 1: React Foundations & JavaScript
 
-### day 11 (25/3/1404)
-- almost finished the todo app. one annoying bug left that prevents me from adding localStorage...
-- it seems you can't use isEmpty or .length or many other great things on objects!
-- also another weird thing: apparently a variable with the value of an empty curly braces (const x = {}) is truthy !!
-- also for some reason I can not just assign one object into another, I'd have to give the parent object a key name first
+### 📅 Day 1–3 (14/3 – 17/3)
+- ✅ Set up **Vite + React**, Git & GitHub
+- 📺 Watched Traversy Media React crashcourse (partial)
+- 🧠 Grasped: components, props, state, hooks, JSX
+- 🔀 Switched to Scrimba → hit a paywall → moved to **The Odin Project**
 
-### day 12 (26/3/1404)
-- coffee timer hit me hard and realized a lot, consider today as a rest day, but it was more of a pivotal day...
+### 📅 Day 11–14 (25/3 – 28/3)
+- 🛠️ Built a **ToDo app** (localStorage, object quirks)
+- 🧪 Learned: empty objects are truthy, `.length` doesn’t work on plain objects
+- 📉 Internet blackout days — still finished a **number sorter** (bubble & selection sort)
 
-### day 14 (28/3/1404)
-- full on internet blackout yesterday... not tryna bring excuses, but I am
-- made a number sorter project yesterday with selection and bubble sort. it was fun, I liked it
+### 📅 Day 21–23 (4/4 – 6/4)
+- 📈 Covered ~85% of **JavaScript** — confident intermediate level
+- 🧭 Set learning roadmap: Git → Tailwind → React → APIs → Big Project → Portfolio
+- ⚔️ Decided: freelance path, no internship; full focus on coding
 
-### day 21 (4/4/1404)
-- full on internet blackout for the last week, no github :( hopefully the war is over
-- have been busy though, created over 10 small projects which will be loading daily.
-- learned a lot, but most importantly, realized how important it is to read docs and explanations of each part I don't understand
-- possibly the opportunity of going to another city and finding internship came back... fingers crossed
+---
 
-### day 23 (6/4/1404)
-- covered over 85% of JS. I could confidently call myself 'Intermediate' in JS
-- suprise suprise, things have changed again. Not safe to travel just yet. gonna become a great developer, F the internship route
-- here's my plan in a nutshell: git/github 1-2days, then tailwind 4days, then react, APIs, a big project, react native, a mobile app and then portfolio.
+## 🎨 Phase 2: Tailwind & CSS
 
-### day 25 (8/4/1404)
-- yesterday I learned basics of git and github, how to push pull branch add commit all the normal stuff
-- today, started learning tailwind, learned how to install it and how it works in general, seems very straight forward
-- found some great courses, very excited to start them. also, gotta download them all asap, in case the war goes down again, which seems like it will...
+### 📅 Day 25–27 (8/4 – 10/4)
+- 🎯 Learned Git basics: push, pull, branch, commit
+- 🎨 Started **Tailwind CSS** — installed, explored utilities
+- 📚 Downloaded courses for offline access (war instability)
+- 🧩 Mastered ~70% of Tailwind classes, deepened **CSS grid & flexbox**
+- ⏱️ ~9h productive day
 
-### day 27 (10/4/1404)
-- today I deepened my understanding of CSS grid and flexbox. learned/memorized about 70% of Tailwind utility classes too
-- quite a prodoctive day today, ~9h of work/study. gonna build a decent looking discord page with Tailwind tomorrow
-- still no war attempts, hopefully stays this way. removing more and more non-programming stuff from my life. also decided to do +2-3 great projects instead of learning react native later
-- got the idea of adding things to my already existing mini-projects instead of building new ones and pushing them here... Wish I did this earlier
+### 📅 Day 29–30 (12/4 – 13/4)
+- 💪 Built a clone of **apple.com** interface with Tailwind (8 hours)
+- 📉 Initial frustration turned into love for Tailwind’s speed
+- 🧭 Learned deployment basics (2 hours) — deferred advanced parts to post‑React
+- 🧠 Noticed similarities between Tailwind’s utility classes and React components
+- 🔥 Felt coding joy for the first time like gaming (Dota 2!)
 
-### day 29 (12/4/1404)
-- extra productive day! hands on work with Tailwind for 8hours. created the interface of apple.com (will finish it later)
-- I was quite pissed at Tailwind yesterday ngl, but today, I kinda loved using it. it's so much easier to navigate between divs to style!
-- if I keep it up like today, I'm sure I can land a job after 2 months.
+---
 
-### day 30 (13/4/1404) 
-- I planned to learn deployment in 2 days, I got the simple stuff in ~2 hours, and postponed the more technical stuff after react and APIs
-- started a React course, I see similarities between Tailwind class utilities and React components
-- today was less coding, more theory/tutorials/reading docs. not as fun as yesterday. starting to feel a kind of joy from coding that I used to get from gaming (Dota 2)
+## ⚛️ Phase 3: React Deep Dive & Mini Projects
 
-### day 34 (17/4/1404)
-- been quite productive last few days, learning React. conpletely forgot about github "green squares"! and honestly, don't see the point of it. it feels like kind of a show off, and easy to get around. don't see it as sth important anymore...
-- havn't built anything worthwhile to upload anyways, might delete the previous repos too. eeh maybe not
+### 📅 Day 34–37 (17/4 – 20/4)
+- 📚 Deep into React theory – less coding, more docs
+- 🛠️ Built an **array methods playground** in Vite (uploaded to GitHub)
+- 🌙 Doubts about job hunt → decided to visit Tehran for in‑person search
+- 🎯 Created a 3‑month plan in Figma; committed to reduce teaching hours
 
-### day 36 (19/4/1404)
-- gave myself a break today. had a lot of doubt about my path and whether it will be possible to land a job.
-- decided to spend the last month of summer going to Tehran and look for jobs personally.
-- created a cool lookin 3-month plan in Figma and set it as my background
-- also, even if I couldn't find a job in that month, very likely will resign temporarely from teaching to focus on programming this year. yeah, I'm committed hard!
+### 📅 Day 47 (30/4)
+- 🏠 House repairs caused lower average (4h/day)
+- 📚 Regained momentum at the library: 7h focused study + coding
+- 🧮 Almost finished a **Calculator widget** — functionality & debugging done, styling pending
 
-### day 37 (20/4/1404)
-- good day, 7/5hrs of coding so far, still got an hour or two left in me. my avg in these 37 days was 7 to 7/5 ish hours
-- created a simple array methods playground in vite. asked GPT whether it's worth it to upload it in github. answer: Absolutely!
-- been tackling between remote job and in-person job. I lean towards remote a lot, since my learning skyrockets this way.
-- it would be a dream come true if I land a remote job... at this point I feel like I'm just repeating myself!
+---
 
-### day 47 (30/4/1404)
-- so the last week wasn't as productive. 4hours avg. some house repair.
-- today I came to library. it's 6pm and I've done a focused 7hour of study + production
-- almost finished my calculator widget. I plan to stick it in the corner of my "golden" project. the functionality and a few debugging is over. just some tailwind styles to add so it matches the design I created in Figma.
-- today was a solid 9/10.
+## 🌐 Phase 4: APIs, Next.js & The Big Project Shift
 
-### day 52 (4/5/1404)
-- been leaning non-stop. finished React to a decent level, now I'm diving into the API world
-- had no clue how useful and simple to grasp fetch API is! feels like a world opened up to me!
-- nothing worth sharing these days... just creating and deleting small projects to learn delicate stuff
+### 📅 Day 52 (4/5)
+- 🌍 Dived into **Fetch API** — “a world opened up”
+- 🧪 Built and deleted small test projects to understand APIs
 
-### day 61 (13/5/1404) 
-- started a project called **Cryptionary**. this will be the project to showcase my skills. so I'll be going as deep as I can
-- folder structure, wireframes, and a bit of UI is done so far
-- very tired at the end of each day... been neglecting writing devlog. kinda don't see the point tho!
+### 📅 Day 61 (13/5)
+- 🏗️ Started **Cryptionary** — crypto dashboard (centerpiece project)
+- 🎨 Wireframes, folder structure, initial UI
 
-### day 71 (23/5/1404)
-- since I had the plan to have the Cryptionary as my centerpiece, scope creep got to me and I started dabbling into backend
-- today I realized the original plan was to specialize front-end first (React-tailwind-Figma)
+### 📅 Day 71 (23/5)
+- 🚧 Scope creep: started backend exploration
+- 🧭 Realized original plan was front‑end first → paused Cryptionary
 
-### day 73 (4/6/1404) 
-- last month have been harsh. unavoidable family things. my momentum was lost. today I restarted the hardcode study mode.
-- I decided to put 2 weeks of 7-9hrs daily study to Node.js and express and MongoDB and MySQL.
+### 📅 Day 73 (4/6)
+- 🔄 Hard reset after family interruptions — back to 7‑9h daily
+- 🥷 Planned 2‑week sprint on **Node.js, Express, MongoDB, MySQL**
 
-### day 74 (15/6/1404) 
-- Next.js; what a monster! I've recently figured out the capabilities of this amazing technology and how it can be a backend - use DBs - optimize images - super easy routing - SEO and much more ...
-- the 'Cryptionary' project of mine is left unfinished sadly. I've decided to build a web app with student/teacher dashboard to make my teaching job a whole lot easier and more productive.
-- so originally I was planning to find another teacher, pay him my salary fully so that I can keep leaarning and finding a programming job, but apparently it's not quite legally possible. that's pretty much the big plan change, followed up by view change. can't be coding for 8+ hours daily. gotta adapt. gonna be hard. but I will not allow myeslf to forget about coding again, like last year. I wish I could continue with full focus but... obsticles are showing up more and more
-- the other big thing that was quite disappointing was the fact that me as an Iranian citizen, am not hirable remotely. both the sanctions and no payment ways, AND i'm a junior... forget about it! the new plan is to build and get exp here in Iran, then travel to a neighbour country and get exp there, THEN maybe, fingers crossed, I can get to the life I want, remote work, traveling around the world.
+### 📅 Day 74 (15/6)
+- 👁️ Discovered **Next.js** — “what a monster!”: routing, APIs, DBs, images, SEO
+- 🧭 Major pivot: abandoned Cryptionary; started **Darsbar** — a student/teacher dashboard for my teaching job
+- 🌍 Reality check: remote job impossible for Iranian juniors (sanctions, no payment channels)
+- 🎯 New long‑term plan: build in Iran → get experience in a neighboring country → remote global work
 
-  ### day 83 (24/6/1404)
-  - learned prisma. connected it to my next.js test project, and to a mySQL DB and added rows with form submition.
-  - next up is to delete, update, query ... the data from mysql table with prisma. then will start the teacher tool project.
-  - I noticed when I push new stuff in an already existing repo, I don't get any green squares! makes me care even less about them!
+---
 
-### day 91 (1/7/1404) 
- - added prisma and database to Darsbar. things are going nicely
- - I am taking things slow, no more rushing. I research anything I don't understand or doesn't feel natural in any way. 
- - progress will be slowed down since schools are starting, but never stopped, hopefully 🤞
- - logged in github via phone this time
+## 🛠️ Phase 5: Darsbar & Portfolio Era
 
-### day 102 (12/7/1404)
- - After so many months, I just realized that if I sync the git config user.email I can actually show my activity in github profile... All this time I thought the green squares just won't show up with pushes 🤦 and I just stopped caring! I'mma make it green as grass now
- - speaking of grass, Ive been contemplating a lot about startign to socialize again. No dating tho. but Idk, it's not that I don't want to, I just don't want it to hurt my momentum and focus. every thing is removed except workout, Teaching (mandatory for now) and programming...I'll probably keep it this way.
- - darsbar is going well, will be finished in ~ 1 month. the MVP of it ofc.
+### 📅 Day 83 (24/6)
+- 💽 Learned **Prisma ORM**, connected Next.js to a MySQL database
+- ✍️ Inserted rows via form submission — next: update, delete, query
 
-### day 106 (16/7/1404)
- - content creation is actually so much harder than I though! hard in terms of time consuming and repetitive... today was just creating audio files via AI for darsbar. I'm close to shipping the MVP. being close to finish, or even actually having a pre-defined finish line, feels much better.
- - I've been thinking, having one very polished and useful and deep and tested web app, would be a lot more impressive than a few smaller in-use products. so I'mma focus on darsbar. maybe just a little portfolio page too.
- - about the start time of applying, If I don't set it, I might just postpone it forever. gonna think about it and decide...
+### 📅 Day 91 (1/7)
+- 🧩 Integrated Prisma + DB into **Darsbar**
+- 🐢 Slower, deeper pace — research every uncertainty
+- 🏫 Schools reopened, but progress never stopped
+
+### 📅 Day 102 (12/7)
+- 🟢 Fixed Git user.email → GitHub contribution graph turned green!
+- 🎯 Focused only on teaching, workout, and coding — no distractions
+- 📦 Darsbar MVP estimated to finish in ~1 month
+
+### 📅 Day 106 (16/7)
+- 🎧 Created AI audio files for Darsbar — content creation is time‑consuming!
+- 🧹 “Finish line” feeling boosted motivation
+- 💡 Realization: one deep, polished app > many small ones
+- 🧭 Decided to add a **portfolio page** alongside Darsbar
+- ⏳ Set a deadline for job applications to avoid indefinite postponing
+
+---
+
+## 🏁 Current Status
+
+| Project        | Tech Stack                     | Status              |
+|----------------|--------------------------------|---------------------|
+| Cryptionary    | React, Tailwind, CoinGecko API | Paused              |
+| Darsbar        | Next.js, Prisma, MySQL         | MVP almost done     |
+| Portfolio      | Next.js, Tailwind, Shadcn UI   | In progress         |
+| Mini Projects  | Vanilla JS, React              | 10+ done, uploaded  |
+
+---
+
+> “I wish I could continue with full focus but… obstacles are showing up more and more. I will not allow myself to forget about coding again.”  
+> — Day 74
+
+**Let’s build. 💻**
